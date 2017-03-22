@@ -2,6 +2,8 @@
 
 이 문서는 2차세계대전 관련 다큐멘터리와 교양 강의에 감명받아 작성하게 되었습니다.
 
+![RecordOfWorldWarII](./images/WW2.jpg)
+
 # [2차 세계 대전 다큐멘터리![2차세계대전 다큐멘터리](https://www.youtube.com//yt/img/logo_1x.png)](https://www.youtube.com/playlist?list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
 
 ```
