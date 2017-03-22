@@ -58,7 +58,7 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 - **영국 본토 항공전(1940. 7. 9)**
 - 타란토 공습(1940. 11. 11)
 
-## 3. [홀로코스트의시작](./홀로코스트의시작.md)(1941)
+## 3. [홀로코스트의 시작](./홀로코스트의시작.md)(1941)
 
 유럽 서부 / 대서양
 
