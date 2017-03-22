@@ -7,7 +7,7 @@
 # [2차 세계 대전 다큐멘터리![2차세계대전 다큐멘터리](https://www.youtube.com//yt/img/logo_1x.png)](https://www.youtube.com/playlist?list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
 
 ```
-This repository is dedicated to people sacrificed for World War II for humanity.
+This documentary is dedicated to people sacrificed for World War II for humanity.
 - 다큐멘터리의 엔딩 크레딧 中
 ```
 
