@@ -6,19 +6,19 @@
 
 ###### 다큐멘터리 성우 - [박상일](https://ko.wikipedia.org/wiki/박상일)
 
-##1-1. [히틀러의 야망 - 독재자의 탄생](https://www.youtube.com/watch?v=SuDWatyl0KY&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
+## 1-1 [히틀러의 야망 - 독재자의 탄생](https://www.youtube.com/watch?v=SuDWatyl0KY&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
 
 
 - 커피에 커피 외의 다른 물질을 첨가한 커피로, 비엔나커피 등이 있다.
 
 
-##1-2. [히틀러의 야망 - 나치의 독재](https://www.youtube.com/watch?v=ixPgeCAJPE4&index=2&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
+## 1-2. [히틀러의 야망 - 나치의 독재](https://www.youtube.com/watch?v=ixPgeCAJPE4&index=2&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
 
 
 - 서로 다른 종류(원종, 생산지역, 배전 등)의 원두를 혼합하여 추출한 커피이다.
 
 
-##2. [프랑스의 참패](https://www.youtube.com/watch?v=ntpt4dnaM18&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=3)
+## 2. [프랑스의 참패](https://www.youtube.com/watch?v=ntpt4dnaM18&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=3)
 
 
 - 자메이카의 커피산지 이름에서 유래한 것으로 일반적으로 자메이카산의 커피브랜드 이름으로 신맛과 쓴맛이 잘 조화된 제1급의 커피로 주로 스트레이트용으로 이용된다.
@@ -28,19 +28,19 @@
 
 - 전통적인 네델란드풍의 커피점을 말한다.
 
-##4. [전쟁의 절정](https://www.youtube.com/watch?v=RnxAtaet8ak&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=5)
+## 4. [전쟁의 절정](https://www.youtube.com/watch?v=RnxAtaet8ak&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=5)
 
 
 - 전통적인 네델란드풍의 커피점을 말한다.
 
 
-##5. [노르망디 상륙작전](https://www.youtube.com/watch?v=yXkoUpw6Dt8&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=6)
+## 5. [노르망디 상륙작전](https://www.youtube.com/watch?v=yXkoUpw6Dt8&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=6)
 
 
 - 에스프레소에 뜨거운 물을 부어 엷게 만든다. 미국에서 많이 마시는 커피와 비슷 하다고 해서 붙은 이름이다.
 
 
-##6. [전쟁의 끝](https://www.youtube.com/watch?v=3vTAFowjqwQ&index=7&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
+## 6. [전쟁의 끝](https://www.youtube.com/watch?v=3vTAFowjqwQ&index=7&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
 
 
 - 아이스 커피의 일종으로 긴 유리잔에 에스프레소를 담고 얼음과 설탕 시럽을 얹어낸다.
