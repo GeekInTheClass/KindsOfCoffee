@@ -2,7 +2,7 @@
 
 이 문서는 2차세계대전 관련 다큐멘터리와 교양 강의에 감명받아 작성하게 되었습니다.
 
-# [2차 세계 대전 다큐멘터리![2차세계대전 다큐멘터리](https://www.youtube.com//yt/img/logo_1x.png)](https://www.youtube.com/watch?v=SuDWatyl0KY&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
+# [2차 세계 대전 다큐멘터리![2차세계대전 다큐멘터리](https://www.youtube.com//yt/img/logo_1x.png)](https://www.youtube.com/playlist?list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
 
 ```
 This repository is dedicated to people sacrificed for World War II for humanity.
@@ -13,9 +13,9 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 
 ###### **Class 화**를 위해 **주요사건 / 기간 / 내용 / 핵심인물 / 관련연합국 / 관련주축국 / 결과** 위주로 작성해주세요
 
-## 1. 히틀러의 야망(\~ 1938)
+## 1. 히틀러의 야망(~ 1939)
 
-### 1-1. [독재자의 탄생](./독재자의탄생.md)
+### 1-1. [독재자의 탄생](./독재자의탄생.md)(\~ 1938)
 
 - 독일, 베르사유 조약 파기 및 재군비 선언(1935)
 - 영국-독일 해군조약(1935)
@@ -58,7 +58,7 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 - **영국 본토 항공전(1940. 7. 9)**
 - 타란토 공습(1940. 11. 11)
 
-## 3. [홀로코스트의 시작](./%ED%99%80%EB%A1%9C%EC%BD%94%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%8B%9C%EC%9E%91.md)(1941)
+## 3. [홀로코스트의시작](./홀로코스트의시작.md)(1941)
 
 유럽 서부 / 대서양
 
@@ -109,7 +109,9 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 - **미드웨이 해전**(1942. 6. 4 ~ 1942. 6. 7)
 - **과달카날 전투**(1942. 8. 7 ~ 1943. 2. 9)
 
-### 1943 카사블랑카 회담(1943. 1. 14 ~ 1943. 1. 26)
+### 1943
+
+카사블랑카 회담(1943. 1. 14 ~ 1943. 1. 26)
 
 유럽 동부
 
