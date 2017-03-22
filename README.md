@@ -15,7 +15,7 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 
 ## 1. 히틀러의 야망(\~ 1938)
 
-### 1-1. [독재자의 탄생](https://www.youtube.com/watch?v=SuDWatyl0KY&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)
+### 1-1. [독재자의 탄생](./독재자의탄생.md)
 
 - 독일, 베르사유 조약 파기 및 재군비 선언(1935)
 - 영국-독일 해군조약(1935)
@@ -30,7 +30,7 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 - **뮌헨 협정(1938)**
 - 빈 중재(1938)
 
-### 1-2. [나치의 독재](https://www.youtube.com/watch?v=ixPgeCAJPE4&index=2&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)(1939)
+### 1-2. [나치의 독재](./나치의독재.md)(1939)
 
 - 독일, 체코슬로바키아 병합(1939. 3월)
 - 할힌골 전투(1939. 5. 11)
@@ -47,7 +47,7 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 
 - 가짜 전쟁
 
-## 2. [프랑스의 참패](https://www.youtube.com/watch?v=ntpt4dnaM18&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=3)(1940)
+## 2. [프랑스의 참패](./프랑스의참패.md)(1940)
 
 유럽 서부
 
@@ -58,7 +58,7 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 - **영국 본토 항공전(1940. 7. 9)**
 - 타란토 공습(1940. 11. 11)
 
-## 3. [홀로코스트의 시작](https://www.youtube.com/watch?v=T96aM9vXOns&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=4)(1941)
+## 3. [홀로코스트의 시작](./%ED%99%80%EB%A1%9C%EC%BD%94%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%8B%9C%EC%9E%91.md)(1941)
 
 유럽 서부 / 대서양
 
@@ -79,7 +79,7 @@ This repository is dedicated to people sacrificed for World War II for humanity.
     - 말레이 해전
 - **진주만 공습(1941. 12. 7)**
 
-## 4. [전쟁의 절정](https://www.youtube.com/watch?v=RnxAtaet8ak&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=5)(1942 ~ 1943)
+## 4. [전쟁의 절정](./전쟁의절정.md)(1942 ~ 1943)
 
 유럽 동부
 
@@ -128,7 +128,7 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 - 비스마르크해 해전
 - **타라와 전투**(1943. 11. 20 ~ 1943. 11. 23)
 
-## 5. [노르망디 상륙작전](https://www.youtube.com/watch?v=yXkoUpw6Dt8&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc&index=6)(1944)
+## 5. [노르망디 상륙작전](./노르망디상륙작전.md)(1944)
 
 유럽 동부
 
@@ -157,7 +157,7 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 
 - 히틀러 암살 미수사건 및 발키리 작전(1944. 7. 20)
 
-## 6. [전쟁의 끝](https://www.youtube.com/watch?v=3vTAFowjqwQ&index=7&list=PLN1COv79fpSAQJCZQMusbVy2KAcxXNSfc)(1945)
+## 6. [전쟁의 끝](./전쟁의끝.md)(1945)
 
 유럽 서부
 
@@ -171,9 +171,9 @@ This repository is dedicated to people sacrificed for World War II for humanity.
 
 태평양
 
-- 이오지마 전투(1945. 2. 18)
+- **이오지마 전투**(1945. 2. 18)
 - **도쿄 대공습 (1945. 3. 9 ~ 1945. 3. 10)**
-- **오키나와 전투(1945. 4. 1)
+- **오키나와 전투**(1945. 4. 1)
 - **히로시마&나가사키 원폭 투하(1945. 8. 6, 1945. 8. 9)**
 - **8.15 광복**(1945. 8.15) ****
 - **일본 항복 문서 서명**(1945. 9.3)
