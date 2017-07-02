@@ -46,9 +46,9 @@ class Event : WorldWarII
 {
     var title:String
     
-    init(title:String, begin: String, end: String) {
+    init(title:String, begin: Time, end: Time) {
         self.title = ""
-        super.init(begin:begin, end:end)
+        super.init(begin, end)
     }
 }
 
@@ -61,10 +61,15 @@ class WorldWarII
     var aliedPowers:[Nation] = []
     var neutrals:[Nation] = []
     
-    init(begin:String, end:String)
+    init(_ begin:Time, _ end:Time)
     {
-        self.begin = Time(1939, 9, 1)
-        self.end = Time(1945, 9, 2)
+        self.begin = begin
+        self.end = end
+    }
+    
+    convenience init()
+    {
+        self.init(Time(1939, 9, 1), Time(1945, 9, 2))
     }
 }
 
